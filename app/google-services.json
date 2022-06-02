@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052159449233",
+    "project_id": "autenticacion-b80e2",
+    "storage_bucket": "autenticacion-b80e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052159449233:android:396819f39b9387e6358730",
+        "android_client_info": {
+          "package_name": "com.example.autenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052159449233-8m0ocuoo3qljo5befqcvvr97ac4jp7bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwisQ4lUHbRoeqF5HkQaQ9vB63jQUzYno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052159449233-8m0ocuoo3qljo5befqcvvr97ac4jp7bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
